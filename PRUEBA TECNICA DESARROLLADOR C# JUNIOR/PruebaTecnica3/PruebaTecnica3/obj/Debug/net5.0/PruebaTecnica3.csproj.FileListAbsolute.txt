@@ -1,0 +1,16 @@
+C:\Users\Beto\Desktop\JaimeSandoval\PruebaTecnica3\PruebaTecnica3\bin\Debug\net5.0\PruebaTecnica3.exe
+C:\Users\Beto\Desktop\JaimeSandoval\PruebaTecnica3\PruebaTecnica3\bin\Debug\net5.0\PruebaTecnica3.deps.json
+C:\Users\Beto\Desktop\JaimeSandoval\PruebaTecnica3\PruebaTecnica3\bin\Debug\net5.0\PruebaTecnica3.runtimeconfig.json
+C:\Users\Beto\Desktop\JaimeSandoval\PruebaTecnica3\PruebaTecnica3\bin\Debug\net5.0\PruebaTecnica3.runtimeconfig.dev.json
+C:\Users\Beto\Desktop\JaimeSandoval\PruebaTecnica3\PruebaTecnica3\bin\Debug\net5.0\PruebaTecnica3.dll
+C:\Users\Beto\Desktop\JaimeSandoval\PruebaTecnica3\PruebaTecnica3\bin\Debug\net5.0\ref\PruebaTecnica3.dll
+C:\Users\Beto\Desktop\JaimeSandoval\PruebaTecnica3\PruebaTecnica3\bin\Debug\net5.0\PruebaTecnica3.pdb
+C:\Users\Beto\Desktop\JaimeSandoval\PruebaTecnica3\PruebaTecnica3\obj\Debug\net5.0\PruebaTecnica3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beto\Desktop\JaimeSandoval\PruebaTecnica3\PruebaTecnica3\obj\Debug\net5.0\PruebaTecnica3.AssemblyInfoInputs.cache
+C:\Users\Beto\Desktop\JaimeSandoval\PruebaTecnica3\PruebaTecnica3\obj\Debug\net5.0\PruebaTecnica3.AssemblyInfo.cs
+C:\Users\Beto\Desktop\JaimeSandoval\PruebaTecnica3\PruebaTecnica3\obj\Debug\net5.0\PruebaTecnica3.csproj.CoreCompileInputs.cache
+C:\Users\Beto\Desktop\JaimeSandoval\PruebaTecnica3\PruebaTecnica3\obj\Debug\net5.0\PruebaTecnica3.dll
+C:\Users\Beto\Desktop\JaimeSandoval\PruebaTecnica3\PruebaTecnica3\obj\Debug\net5.0\ref\PruebaTecnica3.dll
+C:\Users\Beto\Desktop\JaimeSandoval\PruebaTecnica3\PruebaTecnica3\obj\Debug\net5.0\PruebaTecnica3.pdb
+C:\Users\Beto\Desktop\JaimeSandoval\PruebaTecnica3\PruebaTecnica3\obj\Debug\net5.0\PruebaTecnica3.genruntimeconfig.cache
+C:\Users\Beto\Desktop\JaimeSandoval\PruebaTecnica3\PruebaTecnica3\obj\Debug\net5.0\PruebaTecnica3.csprojAssemblyReference.cache

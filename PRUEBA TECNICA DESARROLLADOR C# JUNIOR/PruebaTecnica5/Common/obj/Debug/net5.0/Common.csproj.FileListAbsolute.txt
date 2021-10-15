@@ -1,0 +1,111 @@
+C:\Users\Grillo 404\Desktop\Transporte\ApiWeb\Common\bin\Debug\net5.0\Common.deps.json
+C:\Users\Grillo 404\Desktop\Transporte\ApiWeb\Common\bin\Debug\net5.0\Common.dll
+C:\Users\Grillo 404\Desktop\Transporte\ApiWeb\Common\bin\Debug\net5.0\ref\Common.dll
+C:\Users\Grillo 404\Desktop\Transporte\ApiWeb\Common\bin\Debug\net5.0\Common.pdb
+C:\Users\Grillo 404\Desktop\Transporte\ApiWeb\Common\obj\Debug\net5.0\Common.csprojAssemblyReference.cache
+C:\Users\Grillo 404\Desktop\Transporte\ApiWeb\Common\obj\Debug\net5.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Grillo 404\Desktop\Transporte\ApiWeb\Common\obj\Debug\net5.0\Common.AssemblyInfoInputs.cache
+C:\Users\Grillo 404\Desktop\Transporte\ApiWeb\Common\obj\Debug\net5.0\Common.AssemblyInfo.cs
+C:\Users\Grillo 404\Desktop\Transporte\ApiWeb\Common\obj\Debug\net5.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\Grillo 404\Desktop\Transporte\ApiWeb\Common\obj\Debug\net5.0\Common.dll
+C:\Users\Grillo 404\Desktop\Transporte\ApiWeb\Common\obj\Debug\net5.0\ref\Common.dll
+C:\Users\Grillo 404\Desktop\Transporte\ApiWeb\Common\obj\Debug\net5.0\Common.pdb
+C:\Users\Grillo 404\Desktop\Transporte\apirest_transportepublico\Common\bin\Debug\net5.0\Common.deps.json
+C:\Users\Grillo 404\Desktop\Transporte\apirest_transportepublico\Common\bin\Debug\net5.0\Common.dll
+C:\Users\Grillo 404\Desktop\Transporte\apirest_transportepublico\Common\bin\Debug\net5.0\ref\Common.dll
+C:\Users\Grillo 404\Desktop\Transporte\apirest_transportepublico\Common\bin\Debug\net5.0\Common.pdb
+C:\Users\Grillo 404\Desktop\Transporte\apirest_transportepublico\Common\obj\Debug\net5.0\Common.csprojAssemblyReference.cache
+C:\Users\Grillo 404\Desktop\Transporte\apirest_transportepublico\Common\obj\Debug\net5.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Grillo 404\Desktop\Transporte\apirest_transportepublico\Common\obj\Debug\net5.0\Common.AssemblyInfoInputs.cache
+C:\Users\Grillo 404\Desktop\Transporte\apirest_transportepublico\Common\obj\Debug\net5.0\Common.AssemblyInfo.cs
+C:\Users\Grillo 404\Desktop\Transporte\apirest_transportepublico\Common\obj\Debug\net5.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\Grillo 404\Desktop\Transporte\apirest_transportepublico\Common\obj\Debug\net5.0\Common.dll
+C:\Users\Grillo 404\Desktop\Transporte\apirest_transportepublico\Common\obj\Debug\net5.0\ref\Common.dll
+C:\Users\Grillo 404\Desktop\Transporte\apirest_transportepublico\Common\obj\Debug\net5.0\Common.pdb
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\Common\bin\Debug\net5.0\Common.deps.json
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\Common\bin\Debug\net5.0\Common.dll
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\Common\bin\Debug\net5.0\ref\Common.dll
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\Common\bin\Debug\net5.0\Common.pdb
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\Common\obj\Debug\net5.0\Common.csprojAssemblyReference.cache
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\Common\obj\Debug\net5.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\Common\obj\Debug\net5.0\Common.AssemblyInfoInputs.cache
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\Common\obj\Debug\net5.0\Common.AssemblyInfo.cs
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\Common\obj\Debug\net5.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\Common\obj\Debug\net5.0\Common.dll
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\Common\obj\Debug\net5.0\ref\Common.dll
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\Common\obj\Debug\net5.0\Common.pdb
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\Common\bin\Debug\net5.0\Common.deps.json
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\Common\bin\Debug\net5.0\Common.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\Common\bin\Debug\net5.0\ref\Common.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\Common\bin\Debug\net5.0\Common.pdb
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\Common\obj\Debug\net5.0\Common.csprojAssemblyReference.cache
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\Common\obj\Debug\net5.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\Common\obj\Debug\net5.0\Common.AssemblyInfoInputs.cache
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\Common\obj\Debug\net5.0\Common.AssemblyInfo.cs
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\Common\obj\Debug\net5.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\Common\obj\Debug\net5.0\Common.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\Common\obj\Debug\net5.0\ref\Common.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\Common\obj\Debug\net5.0\Common.pdb
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\Common\bin\Debug\net5.0\Common.runtimeconfig.json
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\Common\bin\Debug\net5.0\Common.runtimeconfig.dev.json
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\Common\obj\Debug\net5.0\Common.genruntimeconfig.cache
+C:\Users\Beto\Desktop\Barbachos\Proyecto\BackBarbachos\Common\bin\Debug\net5.0\Common.deps.json
+C:\Users\Beto\Desktop\Barbachos\Proyecto\BackBarbachos\Common\bin\Debug\net5.0\Common.runtimeconfig.json
+C:\Users\Beto\Desktop\Barbachos\Proyecto\BackBarbachos\Common\bin\Debug\net5.0\Common.runtimeconfig.dev.json
+C:\Users\Beto\Desktop\Barbachos\Proyecto\BackBarbachos\Common\bin\Debug\net5.0\Common.dll
+C:\Users\Beto\Desktop\Barbachos\Proyecto\BackBarbachos\Common\bin\Debug\net5.0\ref\Common.dll
+C:\Users\Beto\Desktop\Barbachos\Proyecto\BackBarbachos\Common\bin\Debug\net5.0\Common.pdb
+C:\Users\Beto\Desktop\Barbachos\Proyecto\BackBarbachos\Common\obj\Debug\net5.0\Common.csprojAssemblyReference.cache
+C:\Users\Beto\Desktop\Barbachos\Proyecto\BackBarbachos\Common\obj\Debug\net5.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beto\Desktop\Barbachos\Proyecto\BackBarbachos\Common\obj\Debug\net5.0\Common.AssemblyInfoInputs.cache
+C:\Users\Beto\Desktop\Barbachos\Proyecto\BackBarbachos\Common\obj\Debug\net5.0\Common.AssemblyInfo.cs
+C:\Users\Beto\Desktop\Barbachos\Proyecto\BackBarbachos\Common\obj\Debug\net5.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\Beto\Desktop\Barbachos\Proyecto\BackBarbachos\Common\obj\Debug\net5.0\Common.dll
+C:\Users\Beto\Desktop\Barbachos\Proyecto\BackBarbachos\Common\obj\Debug\net5.0\ref\Common.dll
+C:\Users\Beto\Desktop\Barbachos\Proyecto\BackBarbachos\Common\obj\Debug\net5.0\Common.pdb
+C:\Users\Beto\Desktop\Barbachos\Proyecto\BackBarbachos\Common\obj\Debug\net5.0\Common.genruntimeconfig.cache
+C:\Users\Beto\Desktop\Proyecto Restaurante\BackEnd\Common\bin\Debug\net5.0\Common.deps.json
+C:\Users\Beto\Desktop\Proyecto Restaurante\BackEnd\Common\bin\Debug\net5.0\Common.runtimeconfig.json
+C:\Users\Beto\Desktop\Proyecto Restaurante\BackEnd\Common\bin\Debug\net5.0\Common.runtimeconfig.dev.json
+C:\Users\Beto\Desktop\Proyecto Restaurante\BackEnd\Common\bin\Debug\net5.0\Common.dll
+C:\Users\Beto\Desktop\Proyecto Restaurante\BackEnd\Common\bin\Debug\net5.0\ref\Common.dll
+C:\Users\Beto\Desktop\Proyecto Restaurante\BackEnd\Common\bin\Debug\net5.0\Common.pdb
+C:\Users\Beto\Desktop\Proyecto Restaurante\BackEnd\Common\obj\Debug\net5.0\Common.csprojAssemblyReference.cache
+C:\Users\Beto\Desktop\Proyecto Restaurante\BackEnd\Common\obj\Debug\net5.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beto\Desktop\Proyecto Restaurante\BackEnd\Common\obj\Debug\net5.0\Common.AssemblyInfoInputs.cache
+C:\Users\Beto\Desktop\Proyecto Restaurante\BackEnd\Common\obj\Debug\net5.0\Common.AssemblyInfo.cs
+C:\Users\Beto\Desktop\Proyecto Restaurante\BackEnd\Common\obj\Debug\net5.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\Beto\Desktop\Proyecto Restaurante\BackEnd\Common\obj\Debug\net5.0\Common.dll
+C:\Users\Beto\Desktop\Proyecto Restaurante\BackEnd\Common\obj\Debug\net5.0\ref\Common.dll
+C:\Users\Beto\Desktop\Proyecto Restaurante\BackEnd\Common\obj\Debug\net5.0\Common.pdb
+C:\Users\Beto\Desktop\Proyecto Restaurante\BackEnd\Common\obj\Debug\net5.0\Common.genruntimeconfig.cache
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\Common\bin\Debug\net5.0\Common.deps.json
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\Common\bin\Debug\net5.0\Common.runtimeconfig.json
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\Common\bin\Debug\net5.0\Common.runtimeconfig.dev.json
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\Common\bin\Debug\net5.0\Common.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\Common\bin\Debug\net5.0\Common.pdb
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\Common\obj\Debug\net5.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\Common\obj\Debug\net5.0\Common.AssemblyInfoInputs.cache
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\Common\obj\Debug\net5.0\Common.AssemblyInfo.cs
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\Common\obj\Debug\net5.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\Common\obj\Debug\net5.0\Common.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\Common\obj\Debug\net5.0\ref\Common.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\Common\obj\Debug\net5.0\Common.pdb
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\Common\obj\Debug\net5.0\Common.genruntimeconfig.cache
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\Common\bin\Debug\net5.0\ref\Common.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\Common\obj\Debug\net5.0\Common.csprojAssemblyReference.cache
+C:\Users\Beto\Desktop\JaimeSandoval\PRUEBA TECNICA DESARROLLADOR C# JUNIOR\PruebaTecnica5\BackEnd\Common\bin\Debug\net5.0\Common.deps.json
+C:\Users\Beto\Desktop\JaimeSandoval\PRUEBA TECNICA DESARROLLADOR C# JUNIOR\PruebaTecnica5\BackEnd\Common\bin\Debug\net5.0\Common.runtimeconfig.json
+C:\Users\Beto\Desktop\JaimeSandoval\PRUEBA TECNICA DESARROLLADOR C# JUNIOR\PruebaTecnica5\BackEnd\Common\bin\Debug\net5.0\Common.runtimeconfig.dev.json
+C:\Users\Beto\Desktop\JaimeSandoval\PRUEBA TECNICA DESARROLLADOR C# JUNIOR\PruebaTecnica5\BackEnd\Common\bin\Debug\net5.0\Common.dll
+C:\Users\Beto\Desktop\JaimeSandoval\PRUEBA TECNICA DESARROLLADOR C# JUNIOR\PruebaTecnica5\BackEnd\Common\bin\Debug\net5.0\ref\Common.dll
+C:\Users\Beto\Desktop\JaimeSandoval\PRUEBA TECNICA DESARROLLADOR C# JUNIOR\PruebaTecnica5\BackEnd\Common\bin\Debug\net5.0\Common.pdb
+C:\Users\Beto\Desktop\JaimeSandoval\PRUEBA TECNICA DESARROLLADOR C# JUNIOR\PruebaTecnica5\BackEnd\Common\obj\Debug\net5.0\Common.csprojAssemblyReference.cache
+C:\Users\Beto\Desktop\JaimeSandoval\PRUEBA TECNICA DESARROLLADOR C# JUNIOR\PruebaTecnica5\BackEnd\Common\obj\Debug\net5.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beto\Desktop\JaimeSandoval\PRUEBA TECNICA DESARROLLADOR C# JUNIOR\PruebaTecnica5\BackEnd\Common\obj\Debug\net5.0\Common.AssemblyInfoInputs.cache
+C:\Users\Beto\Desktop\JaimeSandoval\PRUEBA TECNICA DESARROLLADOR C# JUNIOR\PruebaTecnica5\BackEnd\Common\obj\Debug\net5.0\Common.AssemblyInfo.cs
+C:\Users\Beto\Desktop\JaimeSandoval\PRUEBA TECNICA DESARROLLADOR C# JUNIOR\PruebaTecnica5\BackEnd\Common\obj\Debug\net5.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\Beto\Desktop\JaimeSandoval\PRUEBA TECNICA DESARROLLADOR C# JUNIOR\PruebaTecnica5\BackEnd\Common\obj\Debug\net5.0\Common.dll
+C:\Users\Beto\Desktop\JaimeSandoval\PRUEBA TECNICA DESARROLLADOR C# JUNIOR\PruebaTecnica5\BackEnd\Common\obj\Debug\net5.0\ref\Common.dll
+C:\Users\Beto\Desktop\JaimeSandoval\PRUEBA TECNICA DESARROLLADOR C# JUNIOR\PruebaTecnica5\BackEnd\Common\obj\Debug\net5.0\Common.pdb
+C:\Users\Beto\Desktop\JaimeSandoval\PRUEBA TECNICA DESARROLLADOR C# JUNIOR\PruebaTecnica5\BackEnd\Common\obj\Debug\net5.0\Common.genruntimeconfig.cache
