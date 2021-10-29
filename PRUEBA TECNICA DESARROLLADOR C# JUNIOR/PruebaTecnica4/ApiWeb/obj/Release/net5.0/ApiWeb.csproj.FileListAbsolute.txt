@@ -1,0 +1,239 @@
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\bin\Release\net5.0\appsettings.Development.json
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\bin\Release\net5.0\appsettings.json
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\bin\Release\net5.0\ApiWeb.exe
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\bin\Release\net5.0\ApiWeb.deps.json
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\bin\Release\net5.0\ApiWeb.runtimeconfig.json
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\bin\Release\net5.0\ApiWeb.runtimeconfig.dev.json
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\bin\Release\net5.0\ApiWeb.dll
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\bin\Release\net5.0\ref\ApiWeb.dll
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\bin\Release\net5.0\ApiWeb.pdb
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\bin\Release\net5.0\Humanizer.dll
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\bin\Release\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\bin\Release\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\bin\Release\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\bin\Release\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\bin\Release\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\bin\Release\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\bin\Release\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\bin\Release\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\bin\Release\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\bin\Release\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\bin\Release\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\bin\Release\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\bin\Release\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\bin\Release\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\bin\Release\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\bin\Release\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\bin\Release\net5.0\Microsoft.OpenApi.dll
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\bin\Release\net5.0\Newtonsoft.Json.dll
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\bin\Release\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\bin\Release\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\bin\Release\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\bin\Release\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\bin\Release\net5.0\System.Runtime.Caching.dll
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\bin\Release\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\bin\Release\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\bin\Release\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\bin\Release\net5.0\Bussiness.dll
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\bin\Release\net5.0\Common.dll
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\bin\Release\net5.0\DataAccess.dll
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\bin\Release\net5.0\Bussiness.pdb
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\bin\Release\net5.0\Common.pdb
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\bin\Release\net5.0\DataAccess.pdb
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\obj\Release\net5.0\ApiWeb.csprojAssemblyReference.cache
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\obj\Release\net5.0\ApiWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\obj\Release\net5.0\ApiWeb.AssemblyInfoInputs.cache
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\obj\Release\net5.0\ApiWeb.AssemblyInfo.cs
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\obj\Release\net5.0\ApiWeb.csproj.CoreCompileInputs.cache
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\obj\Release\net5.0\ApiWeb.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\obj\Release\net5.0\ApiWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\obj\Release\net5.0\staticwebassets\ApiWeb.StaticWebAssets.Manifest.cache
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\obj\Release\net5.0\staticwebassets\ApiWeb.StaticWebAssets.xml
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\obj\Release\net5.0\scopedcss\bundle\ApiWeb.styles.css
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\obj\Release\net5.0\ApiWeb.RazorTargetAssemblyInfo.cache
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\obj\Release\net5.0\ApiWeb.csproj.CopyComplete
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\obj\Release\net5.0\ApiWeb.dll
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\obj\Release\net5.0\ref\ApiWeb.dll
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\obj\Release\net5.0\ApiWeb.pdb
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\ApiWeb\obj\Release\net5.0\ApiWeb.genruntimeconfig.cache
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\bin\Release\net5.0\appsettings.Development.json
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\bin\Release\net5.0\appsettings.json
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\bin\Release\net5.0\ApiWeb.exe
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\bin\Release\net5.0\ApiWeb.deps.json
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\bin\Release\net5.0\ApiWeb.runtimeconfig.json
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\bin\Release\net5.0\ApiWeb.runtimeconfig.dev.json
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\bin\Release\net5.0\ApiWeb.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\bin\Release\net5.0\ref\ApiWeb.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\bin\Release\net5.0\ApiWeb.pdb
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\bin\Release\net5.0\Humanizer.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\bin\Release\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\bin\Release\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\bin\Release\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\bin\Release\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\bin\Release\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\bin\Release\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\bin\Release\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\bin\Release\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\bin\Release\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\bin\Release\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\bin\Release\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\bin\Release\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\bin\Release\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\bin\Release\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\bin\Release\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\bin\Release\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\bin\Release\net5.0\Microsoft.OpenApi.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\bin\Release\net5.0\Newtonsoft.Json.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\bin\Release\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\bin\Release\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\bin\Release\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\bin\Release\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\bin\Release\net5.0\System.Runtime.Caching.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\bin\Release\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\bin\Release\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\bin\Release\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\bin\Release\net5.0\Bussiness.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\bin\Release\net5.0\Common.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\bin\Release\net5.0\DataAccess.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\bin\Release\net5.0\Bussiness.pdb
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\bin\Release\net5.0\Common.pdb
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\bin\Release\net5.0\DataAccess.pdb
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\obj\Release\net5.0\ApiWeb.csprojAssemblyReference.cache
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\obj\Release\net5.0\ApiWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\obj\Release\net5.0\ApiWeb.AssemblyInfoInputs.cache
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\obj\Release\net5.0\ApiWeb.AssemblyInfo.cs
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\obj\Release\net5.0\ApiWeb.csproj.CoreCompileInputs.cache
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\obj\Release\net5.0\ApiWeb.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\obj\Release\net5.0\ApiWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\obj\Release\net5.0\staticwebassets\ApiWeb.StaticWebAssets.Manifest.cache
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\obj\Release\net5.0\staticwebassets\ApiWeb.StaticWebAssets.xml
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\obj\Release\net5.0\scopedcss\bundle\ApiWeb.styles.css
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\obj\Release\net5.0\ApiWeb.RazorTargetAssemblyInfo.cache
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\obj\Release\net5.0\ApiWeb.csproj.CopyComplete
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\obj\Release\net5.0\ApiWeb.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\obj\Release\net5.0\ref\ApiWeb.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\obj\Release\net5.0\ApiWeb.pdb
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\obj\Release\net5.0\ApiWeb.genruntimeconfig.cache
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\bin\Release\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\ApiWeb\bin\Release\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\appsettings.Development.json
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\appsettings.json
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\ApiWeb.exe
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\ApiWeb.deps.json
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\ApiWeb.runtimeconfig.json
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\ApiWeb.runtimeconfig.dev.json
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\ApiWeb.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\ref\ApiWeb.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\ApiWeb.pdb
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\Humanizer.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\Microsoft.OpenApi.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\Newtonsoft.Json.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\System.Runtime.Caching.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\Bussiness.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\Common.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\DataAccess.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\Bussiness.pdb
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\Common.pdb
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\DataAccess.pdb
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\obj\Release\net5.0\ApiWeb.csprojAssemblyReference.cache
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\obj\Release\net5.0\ApiWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\obj\Release\net5.0\ApiWeb.AssemblyInfoInputs.cache
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\obj\Release\net5.0\ApiWeb.AssemblyInfo.cs
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\obj\Release\net5.0\ApiWeb.csproj.CoreCompileInputs.cache
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\obj\Release\net5.0\ApiWeb.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\obj\Release\net5.0\ApiWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\obj\Release\net5.0\staticwebassets\ApiWeb.StaticWebAssets.Manifest.cache
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\obj\Release\net5.0\staticwebassets\ApiWeb.StaticWebAssets.xml
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\obj\Release\net5.0\scopedcss\bundle\ApiWeb.styles.css
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\obj\Release\net5.0\ApiWeb.RazorTargetAssemblyInfo.cache
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\obj\Release\net5.0\ApiWeb.csproj.CopyComplete
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\obj\Release\net5.0\ApiWeb.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\obj\Release\net5.0\ref\ApiWeb.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\obj\Release\net5.0\ApiWeb.pdb
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\obj\Release\net5.0\ApiWeb.genruntimeconfig.cache
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\SendGrid.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\StarkbankEcdsa.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\CloudinaryDotNet.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\ApiWeb\bin\Release\net5.0\Microsoft.Extensions.WebEncoders.dll

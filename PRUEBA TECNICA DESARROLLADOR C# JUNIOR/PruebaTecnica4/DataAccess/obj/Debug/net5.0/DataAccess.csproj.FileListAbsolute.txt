@@ -1,0 +1,120 @@
+C:\Users\Grillo 404\Desktop\Transporte\ApiWeb\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\Grillo 404\Desktop\Transporte\ApiWeb\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.json
+C:\Users\Grillo 404\Desktop\Transporte\ApiWeb\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.dev.json
+C:\Users\Grillo 404\Desktop\Transporte\ApiWeb\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\Grillo 404\Desktop\Transporte\ApiWeb\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+C:\Users\Grillo 404\Desktop\Transporte\ApiWeb\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\Grillo 404\Desktop\Transporte\ApiWeb\DataAccess\obj\Debug\net5.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\Grillo 404\Desktop\Transporte\ApiWeb\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Grillo 404\Desktop\Transporte\ApiWeb\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Grillo 404\Desktop\Transporte\ApiWeb\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\Grillo 404\Desktop\Transporte\ApiWeb\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Grillo 404\Desktop\Transporte\ApiWeb\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\Grillo 404\Desktop\Transporte\ApiWeb\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\Grillo 404\Desktop\Transporte\ApiWeb\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\Grillo 404\Desktop\Transporte\ApiWeb\DataAccess\obj\Debug\net5.0\DataAccess.genruntimeconfig.cache
+C:\Users\Grillo 404\Desktop\Transporte\apirest_transportepublico\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\Grillo 404\Desktop\Transporte\apirest_transportepublico\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.json
+C:\Users\Grillo 404\Desktop\Transporte\apirest_transportepublico\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.dev.json
+C:\Users\Grillo 404\Desktop\Transporte\apirest_transportepublico\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\Grillo 404\Desktop\Transporte\apirest_transportepublico\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+C:\Users\Grillo 404\Desktop\Transporte\apirest_transportepublico\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\Grillo 404\Desktop\Transporte\apirest_transportepublico\DataAccess\obj\Debug\net5.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\Grillo 404\Desktop\Transporte\apirest_transportepublico\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Grillo 404\Desktop\Transporte\apirest_transportepublico\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Grillo 404\Desktop\Transporte\apirest_transportepublico\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\Grillo 404\Desktop\Transporte\apirest_transportepublico\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Grillo 404\Desktop\Transporte\apirest_transportepublico\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\Grillo 404\Desktop\Transporte\apirest_transportepublico\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\Grillo 404\Desktop\Transporte\apirest_transportepublico\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\Grillo 404\Desktop\Transporte\apirest_transportepublico\DataAccess\obj\Debug\net5.0\DataAccess.genruntimeconfig.cache
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.json
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.dev.json
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\DataAccess\obj\Debug\net5.0\DataAccess.genruntimeconfig.cache
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\DataAccess\obj\Debug\net5.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.json
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.dev.json
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\DataAccess\obj\Debug\net5.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\DataAccess\obj\Debug\net5.0\DataAccess.genruntimeconfig.cache
+C:\Users\Beto\Desktop\Barbachos\Proyecto\BackBarbachos\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\Beto\Desktop\Barbachos\Proyecto\BackBarbachos\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.json
+C:\Users\Beto\Desktop\Barbachos\Proyecto\BackBarbachos\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.dev.json
+C:\Users\Beto\Desktop\Barbachos\Proyecto\BackBarbachos\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\Beto\Desktop\Barbachos\Proyecto\BackBarbachos\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+C:\Users\Beto\Desktop\Barbachos\Proyecto\BackBarbachos\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\Beto\Desktop\Barbachos\Proyecto\BackBarbachos\DataAccess\obj\Debug\net5.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\Beto\Desktop\Barbachos\Proyecto\BackBarbachos\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beto\Desktop\Barbachos\Proyecto\BackBarbachos\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Beto\Desktop\Barbachos\Proyecto\BackBarbachos\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\Beto\Desktop\Barbachos\Proyecto\BackBarbachos\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Beto\Desktop\Barbachos\Proyecto\BackBarbachos\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\Beto\Desktop\Barbachos\Proyecto\BackBarbachos\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\Beto\Desktop\Barbachos\Proyecto\BackBarbachos\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\Beto\Desktop\Barbachos\Proyecto\BackBarbachos\DataAccess\obj\Debug\net5.0\DataAccess.genruntimeconfig.cache
+C:\Users\Beto\Desktop\Proyecto Restaurante\BackEnd\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\Beto\Desktop\Proyecto Restaurante\BackEnd\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.json
+C:\Users\Beto\Desktop\Proyecto Restaurante\BackEnd\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.dev.json
+C:\Users\Beto\Desktop\Proyecto Restaurante\BackEnd\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\Beto\Desktop\Proyecto Restaurante\BackEnd\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+C:\Users\Beto\Desktop\Proyecto Restaurante\BackEnd\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\Beto\Desktop\Proyecto Restaurante\BackEnd\DataAccess\obj\Debug\net5.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\Beto\Desktop\Proyecto Restaurante\BackEnd\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beto\Desktop\Proyecto Restaurante\BackEnd\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Beto\Desktop\Proyecto Restaurante\BackEnd\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\Beto\Desktop\Proyecto Restaurante\BackEnd\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Beto\Desktop\Proyecto Restaurante\BackEnd\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\Beto\Desktop\Proyecto Restaurante\BackEnd\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\Beto\Desktop\Proyecto Restaurante\BackEnd\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\Beto\Desktop\Proyecto Restaurante\BackEnd\DataAccess\obj\Debug\net5.0\DataAccess.genruntimeconfig.cache
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.json
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.dev.json
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\DataAccess\obj\Debug\net5.0\DataAccess.genruntimeconfig.cache
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\DataAccess\obj\Debug\net5.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\Beto\Desktop\JaimeSandoval\PRUEBA TECNICA DESARROLLADOR C# JUNIOR\PruebaTecnica4\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\Beto\Desktop\JaimeSandoval\PRUEBA TECNICA DESARROLLADOR C# JUNIOR\PruebaTecnica4\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.json
+C:\Users\Beto\Desktop\JaimeSandoval\PRUEBA TECNICA DESARROLLADOR C# JUNIOR\PruebaTecnica4\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.dev.json
+C:\Users\Beto\Desktop\JaimeSandoval\PRUEBA TECNICA DESARROLLADOR C# JUNIOR\PruebaTecnica4\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\Beto\Desktop\JaimeSandoval\PRUEBA TECNICA DESARROLLADOR C# JUNIOR\PruebaTecnica4\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+C:\Users\Beto\Desktop\JaimeSandoval\PRUEBA TECNICA DESARROLLADOR C# JUNIOR\PruebaTecnica4\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\Beto\Desktop\JaimeSandoval\PRUEBA TECNICA DESARROLLADOR C# JUNIOR\PruebaTecnica4\DataAccess\obj\Debug\net5.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\Beto\Desktop\JaimeSandoval\PRUEBA TECNICA DESARROLLADOR C# JUNIOR\PruebaTecnica4\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beto\Desktop\JaimeSandoval\PRUEBA TECNICA DESARROLLADOR C# JUNIOR\PruebaTecnica4\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Beto\Desktop\JaimeSandoval\PRUEBA TECNICA DESARROLLADOR C# JUNIOR\PruebaTecnica4\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\Beto\Desktop\JaimeSandoval\PRUEBA TECNICA DESARROLLADOR C# JUNIOR\PruebaTecnica4\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Beto\Desktop\JaimeSandoval\PRUEBA TECNICA DESARROLLADOR C# JUNIOR\PruebaTecnica4\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\Beto\Desktop\JaimeSandoval\PRUEBA TECNICA DESARROLLADOR C# JUNIOR\PruebaTecnica4\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\Beto\Desktop\JaimeSandoval\PRUEBA TECNICA DESARROLLADOR C# JUNIOR\PruebaTecnica4\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\Beto\Desktop\JaimeSandoval\PRUEBA TECNICA DESARROLLADOR C# JUNIOR\PruebaTecnica4\DataAccess\obj\Debug\net5.0\DataAccess.genruntimeconfig.cache

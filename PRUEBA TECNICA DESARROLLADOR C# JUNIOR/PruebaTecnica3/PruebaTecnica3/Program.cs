@@ -7,19 +7,15 @@ namespace PruebaTecnica3
         static void Main(string[] args)
         {
             int[] myArray = new int[6] { 1, 8, 6, 7, 2, 5 };
+
             for(var i = 0; i < myArray.Length; i++)
             {
-                for(var j = i; j < myArray.Length; j++)
+                for(var j = i+1; j < myArray.Length; j++)
                 {
-                    if (i == j)
-                    {
 
-                    }else
+                    if (myArray[i] + myArray[j] == 10)
                     {
-                        if (myArray[i] + myArray[j] == 10)
-                        {
-                            Console.WriteLine(myArray[i] + " " + myArray[j]);
-                        }
+                        Console.WriteLine(myArray[i] + " " + myArray[j]);
                     }
                     
                 }

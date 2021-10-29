@@ -14,3 +14,19 @@ C:\Users\Beto\Desktop\JaimeSandoval\PruebaTecnica1\PruebaTecnica1\obj\Debug\net5
 C:\Users\Beto\Desktop\JaimeSandoval\PruebaTecnica1\PruebaTecnica1\obj\Debug\net5.0\ref\PruebaTecnica1.dll
 C:\Users\Beto\Desktop\JaimeSandoval\PruebaTecnica1\PruebaTecnica1\obj\Debug\net5.0\PruebaTecnica1.pdb
 C:\Users\Beto\Desktop\JaimeSandoval\PruebaTecnica1\PruebaTecnica1\obj\Debug\net5.0\PruebaTecnica1.genruntimeconfig.cache
+C:\Users\Beto\Desktop\JaimeSandoval\PRUEBA TECNICA DESARROLLADOR C# JUNIOR\PruebaTecnica1\PruebaTecnica1\bin\Debug\net5.0\PruebaTecnica1.exe
+C:\Users\Beto\Desktop\JaimeSandoval\PRUEBA TECNICA DESARROLLADOR C# JUNIOR\PruebaTecnica1\PruebaTecnica1\bin\Debug\net5.0\PruebaTecnica1.deps.json
+C:\Users\Beto\Desktop\JaimeSandoval\PRUEBA TECNICA DESARROLLADOR C# JUNIOR\PruebaTecnica1\PruebaTecnica1\bin\Debug\net5.0\PruebaTecnica1.runtimeconfig.json
+C:\Users\Beto\Desktop\JaimeSandoval\PRUEBA TECNICA DESARROLLADOR C# JUNIOR\PruebaTecnica1\PruebaTecnica1\bin\Debug\net5.0\PruebaTecnica1.runtimeconfig.dev.json
+C:\Users\Beto\Desktop\JaimeSandoval\PRUEBA TECNICA DESARROLLADOR C# JUNIOR\PruebaTecnica1\PruebaTecnica1\bin\Debug\net5.0\PruebaTecnica1.dll
+C:\Users\Beto\Desktop\JaimeSandoval\PRUEBA TECNICA DESARROLLADOR C# JUNIOR\PruebaTecnica1\PruebaTecnica1\bin\Debug\net5.0\ref\PruebaTecnica1.dll
+C:\Users\Beto\Desktop\JaimeSandoval\PRUEBA TECNICA DESARROLLADOR C# JUNIOR\PruebaTecnica1\PruebaTecnica1\bin\Debug\net5.0\PruebaTecnica1.pdb
+C:\Users\Beto\Desktop\JaimeSandoval\PRUEBA TECNICA DESARROLLADOR C# JUNIOR\PruebaTecnica1\PruebaTecnica1\obj\Debug\net5.0\PruebaTecnica1.csprojAssemblyReference.cache
+C:\Users\Beto\Desktop\JaimeSandoval\PRUEBA TECNICA DESARROLLADOR C# JUNIOR\PruebaTecnica1\PruebaTecnica1\obj\Debug\net5.0\PruebaTecnica1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beto\Desktop\JaimeSandoval\PRUEBA TECNICA DESARROLLADOR C# JUNIOR\PruebaTecnica1\PruebaTecnica1\obj\Debug\net5.0\PruebaTecnica1.AssemblyInfoInputs.cache
+C:\Users\Beto\Desktop\JaimeSandoval\PRUEBA TECNICA DESARROLLADOR C# JUNIOR\PruebaTecnica1\PruebaTecnica1\obj\Debug\net5.0\PruebaTecnica1.AssemblyInfo.cs
+C:\Users\Beto\Desktop\JaimeSandoval\PRUEBA TECNICA DESARROLLADOR C# JUNIOR\PruebaTecnica1\PruebaTecnica1\obj\Debug\net5.0\PruebaTecnica1.csproj.CoreCompileInputs.cache
+C:\Users\Beto\Desktop\JaimeSandoval\PRUEBA TECNICA DESARROLLADOR C# JUNIOR\PruebaTecnica1\PruebaTecnica1\obj\Debug\net5.0\PruebaTecnica1.dll
+C:\Users\Beto\Desktop\JaimeSandoval\PRUEBA TECNICA DESARROLLADOR C# JUNIOR\PruebaTecnica1\PruebaTecnica1\obj\Debug\net5.0\ref\PruebaTecnica1.dll
+C:\Users\Beto\Desktop\JaimeSandoval\PRUEBA TECNICA DESARROLLADOR C# JUNIOR\PruebaTecnica1\PruebaTecnica1\obj\Debug\net5.0\PruebaTecnica1.pdb
+C:\Users\Beto\Desktop\JaimeSandoval\PRUEBA TECNICA DESARROLLADOR C# JUNIOR\PruebaTecnica1\PruebaTecnica1\obj\Debug\net5.0\PruebaTecnica1.genruntimeconfig.cache

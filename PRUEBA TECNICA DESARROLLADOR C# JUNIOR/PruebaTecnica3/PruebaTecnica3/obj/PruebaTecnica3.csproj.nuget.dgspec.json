@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Beto\\Desktop\\JaimeSandoval\\PruebaTecnica3\\PruebaTecnica3\\PruebaTecnica3.csproj": {}
+    "C:\\Users\\Beto\\Desktop\\JaimeSandoval\\PRUEBA TECNICA DESARROLLADOR C# JUNIOR\\PruebaTecnica3\\PruebaTecnica3\\PruebaTecnica3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Beto\\Desktop\\JaimeSandoval\\PruebaTecnica3\\PruebaTecnica3\\PruebaTecnica3.csproj": {
+    "C:\\Users\\Beto\\Desktop\\JaimeSandoval\\PRUEBA TECNICA DESARROLLADOR C# JUNIOR\\PruebaTecnica3\\PruebaTecnica3\\PruebaTecnica3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Beto\\Desktop\\JaimeSandoval\\PruebaTecnica3\\PruebaTecnica3\\PruebaTecnica3.csproj",
+        "projectUniqueName": "C:\\Users\\Beto\\Desktop\\JaimeSandoval\\PRUEBA TECNICA DESARROLLADOR C# JUNIOR\\PruebaTecnica3\\PruebaTecnica3\\PruebaTecnica3.csproj",
         "projectName": "PruebaTecnica3",
-        "projectPath": "C:\\Users\\Beto\\Desktop\\JaimeSandoval\\PruebaTecnica3\\PruebaTecnica3\\PruebaTecnica3.csproj",
+        "projectPath": "C:\\Users\\Beto\\Desktop\\JaimeSandoval\\PRUEBA TECNICA DESARROLLADOR C# JUNIOR\\PruebaTecnica3\\PruebaTecnica3\\PruebaTecnica3.csproj",
         "packagesPath": "C:\\Users\\Beto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Beto\\Desktop\\JaimeSandoval\\PruebaTecnica3\\PruebaTecnica3\\obj\\",
+        "outputPath": "C:\\Users\\Beto\\Desktop\\JaimeSandoval\\PRUEBA TECNICA DESARROLLADOR C# JUNIOR\\PruebaTecnica3\\PruebaTecnica3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

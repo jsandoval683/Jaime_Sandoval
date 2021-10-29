@@ -1,0 +1,25 @@
+.btn-primary {
+    font-family: Comic Sans MS;
+    font-size: 15px;
+    font-weight: 700;
+    text-align: center;
+    background-repeat: repeat;
+    background-position: left top;
+    border-radius: 14px;
+}
+
+.btn-secondary {
+    font-family: Comic Sans MS;
+    font-size: 15px;
+    font-weight: 700;
+    text-align: center;
+    background-position: left top;
+    border-radius: 14px;
+    background-color: transparent;
+}
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+@import '~bootstrap/scss/bootstrap';
+
+

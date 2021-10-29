@@ -1,0 +1,84 @@
+<div class="portada">
+    <div id="desarrollofrontend">
+        <h1>Tabla de Estudiantes</h1>
+        <div class="crear">
+          <button mat-raised-button color="primary" (click)="crearEstudiante()" style="margin-right: 10px;">Crear Asignatura</button>
+        </div>
+    </div>
+    <div [hidden]="hide == 0">
+      <div id="desarrollofrontend">
+        <h1>Formulario de Periodo</h1>
+        </div>
+    <div class="text">
+        
+        <div class="example-container">
+
+            <div>
+                <form [formGroup]="frmEstudiante" (ngSubmit)="crear()">
+
+                    <mat-form-field appearance="fill" class="form">
+                        <mat-label for="nombre">Nombre</mat-label>
+                        <input formControlName="nombre" [ngClass]="{ 'is-invalid': validation && f.nombre.errors }" matInput>
+                        <div *ngIf="validation && f.nombre.errors" class="invalid-feedback">
+                            <div *ngIf="f.nombre.errors.required">Nombre is required</div>
+                            <div *ngIf="f.nombre.errors.maxlength">Maximum field length is 50</div>
+                        </div>
+                    </mat-form-field>
+
+                    <mat-form-field appearance="fill" class="form">
+                      <mat-label for="codigo">Código</mat-label>
+                      <input formControlName="codigo" [ngClass]="{ 'is-invalid': validation && f.codigo.errors }" matInput>
+                      <div *ngIf="validation && f.codigo.errors" class="invalid-feedback">
+                          <div *ngIf="f.codigo.errors.required">Código is required</div>
+                          <div *ngIf="f.codigo.errors.maxlength">Maximum field length is 50</div>
+                      </div>
+                  </mat-form-field>
+        
+                    <div class="row">
+                        <div class="col-12 d-flex justify-content-center mt-3">
+                            <button type="button" class="btn btn-default mr-3"
+                            (click)="cancelar()">Cancelar</button>
+                            <button type="button" class="btn btn-primary" type="submit"
+                                >Guardar</button>
+                        </div>
+                    </div>
+        
+                </form>
+                
+            </div>
+
+        </div>
+    </div>
+    </div>
+
+
+    <div class="text" [hidden]="hide == 1">
+        <table mat-table [dataSource]="dataSource" class="table">
+
+            <ng-container matColumnDef="ID">
+              <th class="th" mat-header-cell *matHeaderCellDef>ID</th>
+              <td class="td" mat-cell *matCellDef="let element"> {{element.id}} </td>
+            </ng-container>
+          
+            <ng-container matColumnDef="Nombre">
+              <th class="th" mat-header-cell *matHeaderCellDef>Nombre</th>
+              <td class="td" mat-cell *matCellDef="let element"> {{element.nombre}} </td>
+            </ng-container>
+
+            <ng-container matColumnDef="Código">
+                <th class="th" mat-header-cell *matHeaderCellDef>Código</th>
+                <td class="td" mat-cell *matCellDef="let element"> {{element.codigo}} </td>
+              </ng-container>
+
+            <ng-container class="acciones" matColumnDef="Acciones">
+              <th class="th2" mat-header-cell *matHeaderCellDef>Acciones</th>
+              <td class="td2" mat-cell *matCellDef="let element">
+                <button mat-raised-button color="primary" (click)="entrar(element.id)" style="margin-bottom: 5px; margin-top: 5px; margin-left: 5px; margin-right: 5px;">Ingresar</button>
+            </td>
+            </ng-container>
+
+            <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+            <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+          </table>
+    </div>
+</div>

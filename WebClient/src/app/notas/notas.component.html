@@ -1,0 +1,99 @@
+<div class="portada">
+    <div id="desarrollofrontend">
+        <h1>Tabla de Notas</h1>
+        <div class="crear">
+          <button mat-raised-button color="primary" (click)="crearNota()" style="margin-right: 10px;">Crear Asignatura</button>
+        </div>
+    </div>
+    <div [hidden]="hide == 0">
+      <div id="desarrollofrontend">
+        <h1>Formulario de Nota</h1>
+        </div>
+    <div class="text">
+        
+        <div class="example-container">
+
+            <div>
+                <form [formGroup]="frmNota" (ngSubmit)="crear()">
+
+                    <mat-form-field appearance="fill" class="form">
+                        <mat-label for="nota">Nota</mat-label>
+                        <input formControlName="nota" [ngClass]="{ 'is-invalid': validation && f.nota.errors }" matInput>
+                        <div *ngIf="validation && f.nota.errors" class="invalid-feedback">
+                            <div *ngIf="f.nota.errors.required">Nota is required</div>
+                            <div *ngIf="f.nota.errors.maxlength">Maximum field length is 50</div>
+                        </div>
+                    </mat-form-field>
+
+                    <mat-form-field appearance="fill" class="form">
+                      <mat-label>Asignatura</mat-label>
+                      <mat-select formControlName="idAsignatura" [ngClass]="{ 'is-invalid': validation && f.idAsignatura.errors }">
+                        <mat-option *ngFor="let item of listAsignaturas" [value]="item.id">{{item.nombre}}</mat-option>
+                      </mat-select>
+                  </mat-form-field>
+                  <div *ngIf="validation && f.idAsignatura.errors" class="invalid-feedback">
+                      <div *ngIf="f.idAsignatura.errors.required">Asignatura is required</div>
+                  </div>
+                  
+                  <mat-form-field appearance="fill" class="form">
+                    <mat-label>Periodo</mat-label>
+                    <mat-select formControlName="idPeriodo" [ngClass]="{ 'is-invalid': validation && f.idPeriodo.errors }">
+                      <mat-option *ngFor="let item of listPeriodos" [value]="item.id">{{item.nombre}}</mat-option>
+                    </mat-select>
+                </mat-form-field>
+                <div *ngIf="validation && f.idPeriodo.errors" class="invalid-feedback">
+                    <div *ngIf="f.idPeriodo.errors.required">Periodo is required</div>
+                </div>
+
+                <mat-form-field appearance="fill" class="form">
+                  <mat-label>Estudiante</mat-label>
+                  <mat-select formControlName="idEstudiante" [ngClass]="{ 'is-invalid': validation && f.idEstudiante.errors }">
+                    <mat-option *ngFor="let item of listEstudiantes" [value]="item.id">{{item.nombre}}</mat-option>
+                  </mat-select>
+              </mat-form-field>
+              <div *ngIf="validation && f.idEstudiante.errors" class="invalid-feedback">
+                  <div *ngIf="f.idEstudiante.errors.required">Estudiante is required</div>
+              </div>
+        
+                    <div class="row">
+                        <div class="col-12 d-flex justify-content-center mt-3">
+                            <button type="button" class="btn btn-default mr-3"
+                            (click)="cancelar()">Cancelar</button>
+                            <button type="button" class="btn btn-primary" type="submit"
+                                >Guardar</button>
+                        </div>
+                    </div>
+        
+                </form>
+                
+            </div>
+
+        </div>
+    </div>
+    </div>
+    <div class="text" [hidden]="hide == 1">
+        <table mat-table [dataSource]="dataSource" class="table">
+
+            <ng-container matColumnDef="ID">
+              <th class="th" mat-header-cell *matHeaderCellDef>ID</th>
+              <td class="td" mat-cell *matCellDef="let element"> {{element.id}} </td>
+            </ng-container>
+          
+            <ng-container matColumnDef="Nota">
+              <th class="th" mat-header-cell *matHeaderCellDef>Nota</th>
+              <td class="td" mat-cell *matCellDef="let element"> {{element.nota}} </td>
+            </ng-container>
+
+            <ng-container class="acciones" matColumnDef="Acciones">
+              <th class="th2" mat-header-cell *matHeaderCellDef>Acciones</th>
+              <td class="td2" mat-cell *matCellDef="let element">
+                <button mat-raised-button color="primary" (click)="editar(element.id)" style="margin-bottom: 5px; margin-top: 5px; margin-left: 5px; margin-right: 5px;">Editar</button>
+                <button mat-raised-button color="warn" (click)="eliminar(element.id)" style="margin-bottom: 5px; margin-top: 5px; margin-left: 5px; margin-right: 5px;">Eliminar</button>
+            </td>
+            </ng-container>
+
+            <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+            <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+          </table>
+    </div>
+</div>

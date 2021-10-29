@@ -1,0 +1,57 @@
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\Bussiness\bin\Release\net5.0\Bussiness.deps.json
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\Bussiness\bin\Release\net5.0\Bussiness.dll
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\Bussiness\bin\Release\net5.0\ref\Bussiness.dll
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\Bussiness\bin\Release\net5.0\Bussiness.pdb
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\Bussiness\bin\Release\net5.0\Common.dll
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\Bussiness\bin\Release\net5.0\DataAccess.dll
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\Bussiness\bin\Release\net5.0\Common.pdb
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\Bussiness\bin\Release\net5.0\DataAccess.pdb
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\Bussiness\obj\Release\net5.0\Bussiness.csprojAssemblyReference.cache
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\Bussiness\obj\Release\net5.0\Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\Bussiness\obj\Release\net5.0\Bussiness.AssemblyInfoInputs.cache
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\Bussiness\obj\Release\net5.0\Bussiness.AssemblyInfo.cs
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\Bussiness\obj\Release\net5.0\Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\Bussiness\obj\Release\net5.0\Bussiness.csproj.CopyComplete
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\Bussiness\obj\Release\net5.0\Bussiness.dll
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\Bussiness\obj\Release\net5.0\ref\Bussiness.dll
+C:\Users\Jaime Sandoval\source\repos\ApiRestAtren\apirest_transportepublico\Bussiness\obj\Release\net5.0\Bussiness.pdb
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\Bussiness\bin\Release\net5.0\Bussiness.deps.json
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\Bussiness\bin\Release\net5.0\Bussiness.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\Bussiness\bin\Release\net5.0\ref\Bussiness.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\Bussiness\bin\Release\net5.0\Bussiness.pdb
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\Bussiness\bin\Release\net5.0\Common.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\Bussiness\bin\Release\net5.0\DataAccess.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\Bussiness\bin\Release\net5.0\Common.pdb
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\Bussiness\bin\Release\net5.0\DataAccess.pdb
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\Bussiness\obj\Release\net5.0\Bussiness.csprojAssemblyReference.cache
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\Bussiness\obj\Release\net5.0\Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\Bussiness\obj\Release\net5.0\Bussiness.AssemblyInfoInputs.cache
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\Bussiness\obj\Release\net5.0\Bussiness.AssemblyInfo.cs
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\Bussiness\obj\Release\net5.0\Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\Bussiness\obj\Release\net5.0\Bussiness.csproj.CopyComplete
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\Bussiness\obj\Release\net5.0\Bussiness.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\Bussiness\obj\Release\net5.0\ref\Bussiness.dll
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\Bussiness\obj\Release\net5.0\Bussiness.pdb
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\Bussiness\bin\Release\net5.0\Bussiness.runtimeconfig.json
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\Bussiness\bin\Release\net5.0\Bussiness.runtimeconfig.dev.json
+C:\Users\Beto\source\repos\apirest_transportepublico-básicoRestV2\apirest_transportepublico-básicoRestV2\Bussiness\obj\Release\net5.0\Bussiness.genruntimeconfig.cache
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\Bussiness\bin\Release\net5.0\Bussiness.deps.json
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\Bussiness\bin\Release\net5.0\Bussiness.runtimeconfig.json
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\Bussiness\bin\Release\net5.0\Bussiness.runtimeconfig.dev.json
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\Bussiness\bin\Release\net5.0\Bussiness.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\Bussiness\bin\Release\net5.0\ref\Bussiness.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\Bussiness\bin\Release\net5.0\Bussiness.pdb
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\Bussiness\bin\Release\net5.0\Common.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\Bussiness\bin\Release\net5.0\DataAccess.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\Bussiness\bin\Release\net5.0\Common.pdb
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\Bussiness\bin\Release\net5.0\DataAccess.pdb
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\Bussiness\obj\Release\net5.0\Bussiness.csprojAssemblyReference.cache
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\Bussiness\obj\Release\net5.0\Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\Bussiness\obj\Release\net5.0\Bussiness.AssemblyInfoInputs.cache
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\Bussiness\obj\Release\net5.0\Bussiness.AssemblyInfo.cs
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\Bussiness\obj\Release\net5.0\Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\Bussiness\obj\Release\net5.0\Bussiness.csproj.CopyComplete
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\Bussiness\obj\Release\net5.0\Bussiness.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\Bussiness\obj\Release\net5.0\ref\Bussiness.dll
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\Bussiness\obj\Release\net5.0\Bussiness.pdb
+C:\Users\Beto\Desktop\Encocol\Desarrollo\BackEnd\Bussiness\obj\Release\net5.0\Bussiness.genruntimeconfig.cache

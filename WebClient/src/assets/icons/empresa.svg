@@ -1,0 +1,18 @@
+
+<svg xmlns:svgjs="http://svgjs.com/svgjs" contentScriptType="text/ecmascript"
+     zoomAndPan="magnify" xmlns:xlink="http://www.w3.org/1999/xlink"
+     contentStyleType="text/css" style="enable-background:new 0 0 512 512"
+     version="1.1" xml:space="preserve" width="19"
+     preserveAspectRatio="xMidYMid meet" viewBox="0 0 510 510" height="19"
+     class="" xmlns="http://www.w3.org/2000/svg" x="0" y="0">
+    <g>
+        <g xmlns="http://www.w3.org/2000/svg">
+            <path data-original="#000000" fill="" d="m238 430h34v80h-34z"
+                  style="" class=""/>
+            <path data-original="#000000" fill="" d="m0 152h94v358h-94z"
+                  style="" class=""/>
+            <path data-original="#000000" fill=""
+                  d="m412 208h98v302h-98z" style="" class=""/>
+            <path data-original="#000000" fill=""
+                  d="m334 0h-118v64h-88v446h80v-110h94v110h80v-446h-48zm-111 350h-32v-30h32zm0-64h-32v-30h32zm0-64h-32v-30h32zm0-64h-32v-30h32zm96 192h-32v-30h32zm0-64h-32v-30h32zm0-64h-32v-30h32zm0-64h-32v-30h32z"
+                  style="" class=""/></g></g></svg>

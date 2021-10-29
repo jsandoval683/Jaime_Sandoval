@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Beto\\Desktop\\JaimeSandoval\\PruebaTecnica1\\PruebaTecnica1\\PruebaTecnica1.csproj",
+      "projectUniqueName": "C:\\Users\\Beto\\Desktop\\JaimeSandoval\\PRUEBA TECNICA DESARROLLADOR C# JUNIOR\\PruebaTecnica1\\PruebaTecnica1\\PruebaTecnica1.csproj",
       "projectName": "PruebaTecnica1",
-      "projectPath": "C:\\Users\\Beto\\Desktop\\JaimeSandoval\\PruebaTecnica1\\PruebaTecnica1\\PruebaTecnica1.csproj",
+      "projectPath": "C:\\Users\\Beto\\Desktop\\JaimeSandoval\\PRUEBA TECNICA DESARROLLADOR C# JUNIOR\\PruebaTecnica1\\PruebaTecnica1\\PruebaTecnica1.csproj",
       "packagesPath": "C:\\Users\\Beto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Beto\\Desktop\\JaimeSandoval\\PruebaTecnica1\\PruebaTecnica1\\obj\\",
+      "outputPath": "C:\\Users\\Beto\\Desktop\\JaimeSandoval\\PRUEBA TECNICA DESARROLLADOR C# JUNIOR\\PruebaTecnica1\\PruebaTecnica1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
